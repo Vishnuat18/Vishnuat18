@@ -8,7 +8,6 @@ Focused on building **real-world, scalable, and deployable applications** with c
 ---
 
 ## 🚀 Why Recruiters Should Notice Me
-- Strong foundation in **Java, OOPs, DBMS, OS, and Backend Concepts**
 - Hands-on experience with **real-world projects**, not just academic demos
 - Experience in **authentication, APIs, databases, and deployment**
 - Consistent GitHub activity showing discipline and coding practice
@@ -24,7 +23,7 @@ Focused on building **real-world, scalable, and deployable applications** with c
 
 **Backend**  
 - Java, Spring Boot  
-- Node.js, Express  
+- Node.js
 - REST APIs, JWT Authentication  
 
 **Frontend**  
