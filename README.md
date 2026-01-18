@@ -131,3 +131,15 @@ Android development, modular design, API integration
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Vishnuat18/Vishnuat18/output/github-contribution-grid-snake-dark.svg)
 
+<!--
+Java Full Stack Developer
+Spring Boot Developer
+Backend Engineer
+REST API Development
+JWT Authentication
+Microservices
+MongoDB
+MySQL
+System Design
+Data Structures and Algorithms
+-->
