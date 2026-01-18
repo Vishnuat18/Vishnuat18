@@ -126,3 +126,8 @@ Android development, modular design, API integration
 ---
 
 ⭐ *Focused on consistency, clean code, and placement readiness.*
+
+## 🐍 Contribution Graph
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/Vishnuat18/Vishnuat18/output/github-contribution-grid-snake-dark.svg)
+
