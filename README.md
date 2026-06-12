@@ -30,10 +30,15 @@
         <li><strong>Career Goal</strong>: To engineer scalable backend systems, robust APIs, and optimized databases in product-driven environments.</li>
       </ul>
     </td>
-    <td width="40%" valign="top" align="center">
-      <a href="https://github.com/Vishnuat18">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuat18&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6" alt="Top Languages" width="100%" />
-      </a>
+    <td width="40%" valign="top">
+      <h4>📊 Most Used Languages</h4>
+      <pre>
+HTML        ████████████████████ 40%
+JavaScript  ████████████████     30%
+JAVA        ████████████         15%
+CSS         ██████████           10%
+SQL         ████                 5%
+      </pre>
     </td>
   </tr>
 </table>
@@ -42,7 +47,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Mistake%20is%20a%20mistake%20only%20if%20you%20make%20it%20twice.&theme=dark&bg_color=1a1b27&author_color=70a5fd&accent_color=ff9e64">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Everything%20around%20us%20is%20made%20up%20of%20energy.%20To%20attract%20positive%20things%20in%20your%20life%2C%20start%20by%20giving%20off%20positive%20energy.&theme=dark&bg_color=1a1b27&author_color=70a5fd&accent_color=ff9e64">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -57,6 +62,7 @@
       <h4>Languages</h4>
       <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java" />
       <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C%23-1a1b27?style=flat-square&logo=c-sharp&logoColor=white&labelColor=239120" alt="C#" />
       <img src="https://img.shields.io/badge/SQL-1a1b27?style=flat-square&logo=mysql&logoColor=white&labelColor=00758F" alt="SQL" />
     </td>
     <td valign="top" width="50%">
