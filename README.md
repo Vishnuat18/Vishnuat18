@@ -47,7 +47,7 @@ SQL         ████                 5%
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Everything%20around%20us%20is%20made%20up%20of%20energy.%20To%20attract%20positive%20things%20in%20your%20life%2C%20start%20by%20giving%20off%20positive%20energy.&theme=dark&bg_color=1a1b27&author_color=70a5fd&accent_color=ff9e64">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=If%20it%20is%20not%20right%2C%20do%20not%20do%20it%2C%20if%20it%20is%20not%20true%2C%20do%20not%20say%20it.&theme=dark&bg_color=1a1b27&author_color=70a5fd&accent_color=ff9e64">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -55,6 +55,14 @@ SQL         ████                 5%
 
 <!-- 5. Tech Stack -->
 ## 💻 Tech Stack & Tooling
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" />
+    <img src="./Skills_Animation_Dark.gif" alt="Skills Animation" width="100%" />
+  </picture>
+</p>
 
 <table width="100%">
   <tr>
@@ -265,6 +273,9 @@ graph TD
   </a>
   <a href="https://leetcode.com/Vishnuat18" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/vishnu_24766" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-1a1b27?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4636" alt="CodeChef" />
   </a>
 </p>
 
