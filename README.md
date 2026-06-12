@@ -2,9 +2,13 @@
       GITHUB PROFILE README: VISHNU R
       ========================================== -->
 
-<!-- 1. Premium Animated Header Banner -->
+<!-- 1. Premium Header Banner & Profile Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=180&section=header&text=Vishnu%20R&fontSize=55&fontColor=70a5fd&desc=Software%20Developer%20%7C%20Backend%20Engineer&descAlign=50&descAlignY=70&descSize=20&descColor=a9b1d6&animation=fadeIn" width="100%" alt="Vishnu R Banner" />
+  <img src="./me.png" width="100%" alt="Vishnu R Banner" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Vishnuat18.png" width="130" style="border-radius: 50%; border: 3px solid #70a5fd;" alt="Vishnu R Profile" />
 </p>
 
 <!-- 2. Typing Animation -->
@@ -32,7 +36,7 @@
     </td>
     <td width="40%" valign="top" align="center">
       <a href="https://github.com/Vishnuat18">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuat18&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&hide=html,css" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuat18&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6" alt="Top Languages" width="100%" />
       </a>
     </td>
   </tr>
@@ -40,13 +44,11 @@
 
 <br />
 
-<!-- 4. Engineering Highlights -->
-## 🛠️ Engineering Highlights
-
-- **Backend & API Design**: Designed transactional RESTful APIs using Node.js, Express.js, and Java, integrating secure JWT authentication.
-- **Data Modeling & Optimization**: Experience designing and managing relational databases with MySQL, alongside document-based patterns in MongoDB.
-- **Mobile Systems**: Engineered hardware-coupled Android utilities in Android Studio using Java, implementing asynchronous camera decoding libraries (ZXing).
-- **Automation & Cloud Deployments**: Integrated full-stack applications with serverless architectures and PaaS providers like Vercel, Railway, and Netlify.
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Mistake%20is%20a%20mistake%20only%20if%20you%20make%20it%20twice.&theme=dark&bg_color=1a1b27&author_color=70a5fd&accent_color=ff9e64">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
@@ -104,8 +106,8 @@
 
 ---
 
-<!-- 6. Featured Projects -->
-## 📁 Featured Projects
+<!-- 6. Top 3 Projects -->
+## 📁 Top 3 Projects
 
 ### 🌟 HabitFlow — Habit Tracking Web Application (Flagship Project)
 > A comprehensive personal productivity dashboard that helps users establish long-term habits through visual progress analytics and streak auditing.
@@ -173,7 +175,7 @@ Tooling: Android Studio & Java SDK
 ---
 
 <!-- 7. Internship Experience -->
-## 💼 Professional Experience
+## 💼 Internship Experience
 
 #### **Full Stack Java Developer Intern** | NextGen Solutions
 _Salem, Tamil Nadu, India_
@@ -235,8 +237,8 @@ Tooling: Eclipse IDE, MySQL Database, Git, Java 8/11 SDK
 
 ---
 
-<!-- 11. 2026 Engineering Roadmap -->
-## 🗺️ 2026 Engineering Roadmap
+<!-- 11. 2027 My Roadmap -->
+## 🗺️ 2027 My Roadmap
 
 ```mermaid
 graph TD
