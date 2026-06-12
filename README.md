@@ -4,10 +4,6 @@
 
 <!-- 1. Premium Header Banner & Profile Image -->
 <p align="center">
-  <img src="./me.png" width="100%" alt="Vishnu R Banner" />
-</p>
-
-<p align="center">
   <img src="https://github.com/Vishnuat18.png" width="130" style="border-radius: 50%; border: 3px solid #70a5fd;" alt="Vishnu R Profile" />
 </p>
 
